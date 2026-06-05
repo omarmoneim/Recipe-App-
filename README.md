@@ -74,9 +74,9 @@ This project shows progressive improvements in API design:
 <img width="1920" height="657" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/223d6b8f-f54a-4dac-83ea-4bc808c6ad86" />
 
 ##📌 What I Learned
-How can i handle REST APIs 
-Improving code maintainability step by step
-Handling CRUD operations efficiently
+--How can i handle REST APIs 
+--Improving code maintainability step by step
+--Handling CRUD operations efficiently
 
 👨‍💻 Author
 

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/all.min.css">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Meals</title>
+</head>
+<body>
+
+<header class="w-75 m-auto pt-4" >
+  <h1 class="sectionTitle text-center">THE MAGIC OF TASTE-DISCOVER,COOK &ENJOY </h1>
+</header>
+
+
+    <section class="mealsSection">
+      <form >
+                <input type="search" name="Search" aria-label="Search"  id="myInput" placeholder="Search" class="form-control  w-75  mx-auto my-5">
+
+      </form>
+        <div class="container">
+            <div class="row g-4 mt-4 d-flex justify-content-center align-items-center " id="ourMeals">
+              
+            </div>
+        </div>
+    </section>
+ 
+    <hr>
+
+<section class="MainQuote w-75 m-auto mb-5  p-3 text-center">
+    <q class="sectionTitle ">Read A Quote</q>
+
+  <div class="border border-2 border-white p-2">
+     <q class="quote text-white ">"Cooking is not just about following a script; it's about the magic that happens when you dare to discover new flavors and share them with the world."
+</q>
+<p class="chefName mt-2">— Chef Julian V., Michelin Star Consultant</p>
+
+  </div>
+ 
+</section>
+
+
+
+<!-- Modal -->
+<div class="modal fade " id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content bg-black border border-4 border-danger shadow-lg">
+      <div class="modal-header border-bottom-0">
+        <h1 class="modal-title fs-5 p-2 border-bottom border-4 border-danger text-light" id="exampleModalLabel">Recipe Details</h1>
+        <button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+
+      <div class="modal-body" id='mealDescription'>
+      
+
+
+
+
+
+      </div>
+
+      <div class="modal-footer border-top-0">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    <!-- <script src="./js/main.js"></script> -->
+    <!-- <script src="./js/promise.js"></script> -->
+     <script src="./js/fetch.js"></script>
+</body>
+</html>

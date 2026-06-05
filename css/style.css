@@ -1,0 +1,37 @@
+body{
+    background-image: url(../imgs/Gemini-background.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: repeat;
+    height: 100vh;
+    
+}
+img{
+    height: 250px;
+}
+
+button{
+     background-color: #ff915e;
+}
+.sectionTitle{
+    color: #ff915e;
+    font-family: 'Arial', sans-serif;
+    font-size: 38px;
+    font-weight: bolder;
+    -webkit-text-stroke: 2px #fa9a00; 
+    font-style: italic;
+    
+    text-shadow: -2px -2px 0 #000, 1px -1px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+}
+
+.quote{
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.chefName{
+    font-size: 16px;
+    font-weight: bold;
+    color: #f4b02a;
+}

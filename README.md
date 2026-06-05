@@ -47,8 +47,7 @@ This project shows progressive improvements in API design:
 - Create a recipe 🍲  
 - Get all recipes 📋  
 - Get single recipe by ID 🔍  
-- Update recipe ✏️  
-- Delete recipe ❌  
+
 
 ---
 

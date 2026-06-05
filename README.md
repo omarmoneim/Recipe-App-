@@ -71,7 +71,7 @@ This project shows progressive improvements in API design:
 
 
 ##Recipe Details
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7501982e-93e6-42eb-84e2-6150eb9584f0" />
+<img width="1920" height="657" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/223d6b8f-f54a-4dac-83ea-4bc808c6ad86" />
 
 ##📌 What I Learned
 How can i handle REST APIs 
